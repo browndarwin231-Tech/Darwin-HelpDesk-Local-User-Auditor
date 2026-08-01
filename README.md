@@ -1,4 +1,4 @@
-# Darwin-Local-User-Auditor
+# Darwin Helpdesk Local User Auditor
 
 ## Overview
 
